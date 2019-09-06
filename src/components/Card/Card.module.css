@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
+
+.Card{
+    background: #64ffea;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Nunito', 'sans-serif';
+    transition: transform 0.3s;
+    box-shadow: 5px 5px 10px #000;
+    border: 1px solid rgb(22, 255, 177);
+    min-width: 300px;
+}
+
+.Card h1{
+    font-family: 'Nunito', 'sans-serif';
+    font-size: 1.5rem;
+}
+
+.Card:hover{
+    transform: scale(1.04);
+}
+
+

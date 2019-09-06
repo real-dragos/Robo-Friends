@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'SEGA FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('../../assets/fonts/SEGA.woff') format('woff');
+    }
+
+.App{
+    text-align: center;
+}
+
+#main-title{
+    font-family: 'SEGA FONT';
+    font-weight: 200;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    margin-top: 20px;
+    margin-bottom: 0;
+    color:#fff;
+    text-shadow: 0 0 5px rgb(22, 255, 177);
+}
+
+@media screen and (max-width: 600px) {
+    #main-title{
+        font-size: 2rem;
+    }
+}
