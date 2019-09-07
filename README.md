@@ -1,5 +1,7 @@
 # ROBO Friends
 
+React & Redux sample application
+
 ## Available Scripts
 
 In the project directory, you can run:
