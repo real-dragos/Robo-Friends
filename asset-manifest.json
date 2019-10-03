@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Robo-Friends/static/css/main.715c69b9.chunk.css",
+    "main.js": "/Robo-Friends/static/js/main.e412e11d.chunk.js",
+    "main.js.map": "/Robo-Friends/static/js/main.e412e11d.chunk.js.map",
+    "runtime~main.js": "/Robo-Friends/static/js/runtime~main.321acf5e.js",
+    "runtime~main.js.map": "/Robo-Friends/static/js/runtime~main.321acf5e.js.map",
+    "static/js/2.67161f44.chunk.js": "/Robo-Friends/static/js/2.67161f44.chunk.js",
+    "static/js/2.67161f44.chunk.js.map": "/Robo-Friends/static/js/2.67161f44.chunk.js.map",
+    "index.html": "/Robo-Friends/index.html",
+    "precache-manifest.93a2e1cfcdafd3b93ec09a6811b8a1a9.js": "/Robo-Friends/precache-manifest.93a2e1cfcdafd3b93ec09a6811b8a1a9.js",
+    "service-worker.js": "/Robo-Friends/service-worker.js",
+    "static/css/main.715c69b9.chunk.css.map": "/Robo-Friends/static/css/main.715c69b9.chunk.css.map",
+    "static/media/App.module.css": "/Robo-Friends/static/media/SEGA.12a3db8b.woff"
+  }
+}
